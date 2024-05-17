@@ -38,6 +38,7 @@ class Sprite:
 SPRITES = {
     "Crawler.[N]Body01": Sprite("Beings/Bodies/Crawler.[N]Body01"),
     "Crawler.[N]Body01_1": Sprite("Beings/Bodies/Crawler.[N]Body01_1"),
+    "Crawler.[N]Body01_H": Sprite("Beings/Bodies/Crawler.[N]Body01_H"),
 
     # Attached Crawler Hat
     "Human.[N]Crawler01": Sprite("Beings/Hats/Human.[N]Crawler01"),

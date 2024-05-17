@@ -4,6 +4,12 @@
 	"Name": "Parasite Crawler",
 	"Description": "Replaces the graphics for the Crawler with the Alien Swarm Parasite.",
 	"ModVersion": "0.1.0",
-	"GameVersion": "0.10.0",
-	"Dependencies": [ "Core" ]
+	"GameVersion": "0.11.0",
+	"Dependencies": [ "Core" ],
+	"Atlases" : [
+		{
+			"Id" : "Beings",
+			"Path" : "Beings/"
+		}
+	]
 }
